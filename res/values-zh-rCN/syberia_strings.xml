@@ -133,7 +133,7 @@
     <!-- Battery stats reset -->
     <string name="battery_stats_reset">重置电池使用记录</string>
     <string name="battery_stats_message">电池使用记录将被重置</string>
-    <string name="ok_string">好</string>
+    <string name="ok_string">确定</string>
     
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">快速解锁</string>
